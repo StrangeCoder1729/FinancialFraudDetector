@@ -46,6 +46,6 @@ To run the project locally:
 4. Access the application through the provided localhost URL.
 
 ### Website Deployment
-The fraud detection system is deployed on Vercel and can be accessed at [Financial Fraud Detector](https://financialfrauddetector.onrender.com/predict).
+The fraud detection system is deployed on Vercel and can be accessed at [Financial Fraud Detector](https://financialfrauddetector.onrender.com).
 
 This project exemplifies a practical implementation of machine learning for fraud detection in a real-time web application, highlighting Flask's integration with machine learning models for efficient deployment and usability.
