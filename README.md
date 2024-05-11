@@ -19,7 +19,7 @@ The backend processes input data from a user-friendly frontend interface, querie
 The Python `Pickle` library is used to serialize and deserialize machine learning models, enabling easy integration within Flask for inference.
 
 ### Website Access
-The fraud detection system is accessible at [Financial Fraud Detector](https://financialfrauddetector.onrender.com/predict) hosted on Vercel. Users interact with the frontend to select a machine learning model and specify transaction details, receiving instant fraud likelihood predictions.
+The fraud detection system is accessible at [Financial Fraud Detector](https://financialfrauddetector.onrender.com) hosted on Render. Users interact with the frontend to select a machine learning model and specify transaction details, receiving instant fraud likelihood predictions.
 
 ## Contributors
 - **Saket Kulkarni**
